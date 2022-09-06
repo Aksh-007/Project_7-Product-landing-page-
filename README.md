@@ -31,7 +31,7 @@
     -  How to design button 
     -  background properties { background-repeat,background-position}
     -   Learned about positioning properties
-
+    -   Larned How to set positioning in mobile responsive sites
 ---
 
 ## Time taken to finish this project
